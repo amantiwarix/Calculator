@@ -2,6 +2,7 @@
 
 This is a basic calculator application implemented in [HTML and CSS]. It performs simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
+
 ## Features
 
 1) Addition of two numbers.
@@ -9,10 +10,12 @@ This is a basic calculator application implemented in [HTML and CSS]. It perform
 3) Multiplication of two numbers.
 4) Division of one number by another.
 
+
 ## Installation
 
 1) Clone or download the repository.
 2) Navigate to the project directory.
+
 
 ## Usage
 
@@ -22,6 +25,7 @@ This is a basic calculator application implemented in [HTML and CSS]. It perform
 4) Enter the second number.
 5) Press the "Calculate" or "Equal" button.
 6) The result will be displayed on the screen.
+
 
 ## Customization
 
